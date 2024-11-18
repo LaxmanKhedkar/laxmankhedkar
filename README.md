@@ -26,7 +26,7 @@
 
 ```yaml
 Name: Laxman Khedkar
-Located_in: Maharashtra, India
+Located_in: Pune, Maharashtra, India
 
 Education: Pursuing BE in Computer Engineering from Savitribai Phule Pune University
   
