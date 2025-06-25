@@ -28,15 +28,14 @@
 Name: Laxman Khedkar
 Located_in: Pune, Maharashtra, India
 
-Education: Pursuing BE in Computer Engineering from Savitribai Phule Pune University
+Education: BE in Computer Engineering from Savitribai Phule Pune University
   
 Fields_of_interests:
    "Data Science",
-   "Machine Learning",
    "Data Analytics"
   
 Technologies I Use:
-   - "Python, SQL, MS Excel, Power BI, Data Visualization"
+   - "Python, SQL, MS Excel, Power BI, Data Visualization,ETL,"
 
 Goals: My goal is to leverage data to solve real-world problems and contribute to the open-source and professional community. I am passionate about data-driven decision-making and developing advanced analytical solutions.
 
