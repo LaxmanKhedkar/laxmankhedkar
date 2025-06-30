@@ -42,10 +42,64 @@ Goals: My goal is to leverage data to solve real-world problems and contribute t
 Collaboration: I'm open to collaborating on exciting projects or discussing new ideas. If you have a project in mind or want to chat about data science, feel free to reach out to me!
 
 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/laxman-khedkar)
-- [GitHub](https://github.com/Laxman7744)
-- [Portfolio](https://beacons.ai/laxmankhedkar)
+- LinkedIn - https://www.linkedin.com/in/laxman-khedkar
+- GitHub- https://github.com/Laxman7744
+- Portfolio - https://beacons.ai/laxmankhedkar
 - Email: khedkarlaxman823@gmail.com
+
+
+
+
+
+
+
+<h2 align="center">👨🏻‍💻 Laxman Khedkar | Data Enthusiast</h2>
+
+<p align="center">
+  <strong>Data Analyst | Final Year Computer Engineering Student | Passionate about turning data into insights</strong>
+</p>
+
+---
+
+## 🚀 About Me
+
+```yaml
+Name: Laxman Khedkar
+Location: Pune, Maharashtra, India
+Education: BE in Computer Engineering from Savitribai Phule Pune University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Thank you for visiting my profile. I hope my projects inspire or assist you on your journey!
 ```
