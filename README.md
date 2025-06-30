@@ -42,7 +42,7 @@ Goals: My goal is to leverage data to solve real-world problems and contribute t
 Collaboration: I'm open to collaborating on exciting projects or discussing new ideas. If you have a project in mind or want to chat about data science, feel free to reach out to me!
 
 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/laxman-khedkar-24313a243/)
+- [LinkedIn](https://www.linkedin.com/in/laxman-khedkar)
 - [GitHub](https://github.com/Laxman7744)
 - [Portfolio](https://beacons.ai/laxmankhedkar)
 - Email: khedkarlaxman823@gmail.com
