@@ -25,7 +25,7 @@
 <h2> 👨🏻‍💻 A Little Bit About Me and My Interests</h2>
 
 ```yaml
-Name: Laxman Khedkar
+Name: Laxman Bhimrao Khedkar
 Located_in: Pune, Maharashtra, India
 
 Education: BE in Computer Engineering from Savitribai Phule Pune University
