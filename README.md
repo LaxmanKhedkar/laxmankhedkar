@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50px"> Hello, I'm Laxman Khedkar
+ <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Hi.gif" width="30px"> Hello, I'm Laxman Khedkar
 </h1>
 
 <h3 align="center">Data Science Enthusiast | Transforming Raw Data into Actionable Insights</h3>
@@ -31,7 +31,8 @@
 ## 👨‍💻 About Me
 
 
-<img align="right" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="350px" alt="Coding GIF">
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="Coding GIF">
+
 
 I'm a passionate Data Science enthusiast with expertise in data analysis, machine learning, and data visualization. I specialize in transforming complex datasets into actionable insights that drive business decisions.
 
@@ -45,7 +46,6 @@ I'm a passionate Data Science enthusiast with expertise in data analysis, machin
 ---
 
 ## 🛠️ Skills & Tech Stack  
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350px" alt="Coding GIF">
 
 **Programming & Scripting:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
