@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/laxman-khedkar-24313a243/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Laxman7744(https://github.com/Laxman7744)">
+  <a href="https://github.com/Laxman7744">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://beacons.ai/laxmankhedkar">
