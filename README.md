@@ -71,7 +71,7 @@ I'm a passionate Data Science enthusiast with expertise in data analysis, machin
 ## 💼 Experience  
 
 📌 **Data Analyst Intern – TWJ Associates Pvt Ltd**  
-📆 Dec 2024 – Mar 2025  
+📆 Dec 2024 –  
 Worked on data collection, analysis, visualization (Power BI), and KPI reporting to support business decisions.  
 
 📌 **Data Science Intern – Institute of Advance Network Technology Pvt Ltd**  
