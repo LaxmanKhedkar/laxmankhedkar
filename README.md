@@ -5,19 +5,22 @@
 <h3 align="center">Data Science Enthusiast | Transforming Raw Data into Actionable Insights</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/laxman-khedkar-24313a243/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/laxman-khedkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Laxman7744">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://beacons.ai/laxmankhedkar">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:khedkarlaxman823@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Data+Analyst;Data+Science;Machine+Learning+Enthusiast;AI+ML+Engineer" alt="Typing SVG" />
