@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/laxman-khedkar-24313a243/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Laxman7744">
+  <a href="https://github.com/Laxman7744(https://github.com/Laxman7744)">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://beacons.ai/laxmankhedkar">
@@ -98,23 +98,26 @@ Performed data preprocessing, model building, and analytics for real-world datas
 </p>
 
 ---
-
-## 📫 Let's Connect
+## 📫 Let's Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/laxman-khedkar-24313a243/">
-    <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/laxman-khedkar/">
+    <img height="40" style="margin: 0 12px;" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Laxman7744">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"/>
+    <img height="40" style="margin: 0 12px;" src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
   <a href="https://beacons.ai/laxmankhedkar">
-    <img height="40" src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio"/>
+    <img height="40" style="margin: 0 12px;" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
   </a>
   <a href="mailto:khedkarlaxman823@gmail.com">
-    <img height="40" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
+    <img height="40" style="margin: 0 12px;" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
   </a>
 </p>
+
+
+
+
 
 ---
 
