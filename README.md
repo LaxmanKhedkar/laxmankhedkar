@@ -47,6 +47,8 @@ I'm a passionate Data Science enthusiast with expertise in data analysis, machin
 
 ## 🛠️ Skills & Tech Stack  
 
+<img  align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+
 **Programming & Scripting:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) 
