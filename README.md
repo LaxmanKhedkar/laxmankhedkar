@@ -129,7 +129,7 @@ Performed data preprocessing, model building, and analytics for real-world datas
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:9013FE&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:9013FE&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ff" />
 </p>
 
 
