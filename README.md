@@ -95,7 +95,7 @@ Performed data preprocessing, model building, and analytics for real-world datas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LaxmanKhedkar&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=LaxmanKhedkar&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.vercel.app?user=LaxmanKhedkar&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
