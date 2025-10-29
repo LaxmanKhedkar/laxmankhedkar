@@ -94,12 +94,12 @@ Performed data preprocessing, model building, and analytics for real-world datas
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaxmanKhedkar&show_icons=true&theme=radical&v=1" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LaxmanKhedkar&theme=radical&v=1" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LaxmanKhedkar&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=LaxmanKhedkar&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaxmanKhedkar&theme=react-dark&hide_border=true&area=true&v=1" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaxmanKhedkar&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 
