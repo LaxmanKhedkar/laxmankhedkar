@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Hi.gif" width="30px"> Hello, I'm Laxman Khedkar
+ <img src="https://github.com/laxmankhedkar/laxmankhedkar/blob/main/Assets/Hi.gif" width="30px"> Hello, I'm Laxman Khedkar
 </h1>
 
 <h3 align="center">Data Science Enthusiast | Transforming Raw Data into Actionable Insights</h3>
@@ -94,11 +94,14 @@ Performed data preprocessing, model building, and analytics for real-world datas
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaxmanKhedkar&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaxmanKhedkar&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=laxmankhedkar&show_icons=true&theme=radical&cache_seconds=1800" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=laxmankhedkar&theme=radical&hide_border=true" height="165"/>
 </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaxmanKhedkar&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmankhedkar&theme=react-dark&hide_border=true"/>
+</p>
+
 
 
 
